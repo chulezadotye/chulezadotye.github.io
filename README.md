@@ -1,2 +1,2 @@
 # chulezadotye.github
-My programming and game development portfolio
+My academic and technical portfolio showcasing my Computer Science studies, programming projects, artificial intelligence research, and machine learning skills.
